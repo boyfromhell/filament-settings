@@ -3,6 +3,7 @@
     "description": "Manage your settings in filament for spatie/valuestore",
     "require": {
         "php": "^8.0",
+        "filament/filament": "^2.0",
         "spatie/valuestore": "^1.2",
         "spatie/laravel-sitemap": "^6.2"
     },

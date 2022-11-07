@@ -1,5 +1,7 @@
 # Filament settings and sitemap
 
+![img](https://github.com/boyfromhell/filament-settings/blob/master/img/img.png)
+
 This package allows for easy setting management using 
 [Spatie's ValueStore package](https://github.com/spatie/valuestore)
 [Spatie's Generate sitemaps package](https://github.com/spatie/laravel-sitemap)

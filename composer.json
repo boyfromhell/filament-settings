@@ -1,0 +1,29 @@
+{
+    "name": "ichbin/filament-settings",
+    "description": "Manage your settings in filament for spatie/valuestore",
+    "require": {
+        "php": "^8.0",
+        "spatie/valuestore": "^1.2",
+        "spatie/laravel-sitemap": "^6.2"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "IchBin\\FilamentSettings\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "IchBin\\FilamentSettings\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "IchBin\\FilamentSettings\\FilamentSettingsProvider"
+            ]
+        }
+    }
+}

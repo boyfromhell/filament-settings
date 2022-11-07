@@ -3,7 +3,9 @@
 ![img](https://github.com/boyfromhell/filament-settings/blob/master/img/img.png)
 
 This package allows for easy setting management using 
+
 [Spatie's ValueStore package](https://github.com/spatie/valuestore)
+
 [Spatie's Generate sitemaps package](https://github.com/spatie/laravel-sitemap)
 
 ## Content of the configuration file
@@ -45,6 +47,11 @@ Define your fields by adding the following in the `boot` method of your `AppServ
 ```
 
 After that you can access your values as you usually would using [spatie/valuestore](https://github.com/spatie/valuestore)
+
+Or in blade
+```
+{{ setting('key') }}
+```
 
 ### Hiding the page for users
 

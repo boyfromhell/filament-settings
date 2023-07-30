@@ -24,7 +24,7 @@ return [
 
 1. Require the package
 ```shell
-composer require ichbin/filament-settings
+composer require ichbin/filament-settings "^v2.0"
 ```
 
 2. publish the configuration file

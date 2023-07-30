@@ -1,6 +1,6 @@
 # Filament settings and sitemap
 
-![img]([https://github.com/boyfromhell/filament-settings/blob/master/img/img.png](https://github.com/boyfromhell/filament-settings/blob/v2/img/img.png))
+![img]([https://github.com/boyfromhell/filament-settings/blob/v2/img/img.png](https://github.com/boyfromhell/filament-settings/blob/v2/img/img.png))
 
 This package allows for easy setting management using 
 
